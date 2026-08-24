@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Bhavya-rana-590034689/Bhavya-rana-590034689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Bhavya
+﻿﻿Computer Science Student
+﻿﻿skilled in C,C++ ‚java ,DSA
+﻿﻿Practicing Competitive Programming
+﻿﻿Building projects and learning new technologies
+Skills
+C
+﻿﻿C++
+﻿﻿DSA
+﻿﻿CP
+Current Goals
+﻿﻿Build real-world projects
+﻿﻿Improve programming and software design skills
+﻿﻿Contribute to open-source projects
+Connect With Me
+• Email: Bhavya.34689@stu.upes.ac.in
